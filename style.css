@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+
+body {
+background-image: url(https://img.wallpapersafari.com/desktop/1600/900/60/56/7F9WvB.jpg);
+background-size: cover;
+}
+
+.grid{
+   height: 560px;
+   width: 560px;
+   display: flex;
+   flex-wrap: wrap;
+   margin: auto;
+   margin-top: auto;
+   background-color: rgb(93, 8, 211, 0.3);
+}
+
+.grid div {
+   height: 70px;
+   width: 70px;
+}
+
+h3, h1 {
+   font-family: Geneva, Verdana, sans-serif;
+   text-align: center;
+   font-size: 3em;
+   margin: auto;
+   font-weight: bold;
+   color: black;
+   
+}
+
+
+
+
